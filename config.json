@@ -1,7 +1,6 @@
 {
     "title": "Visual Essays",
     "banner": "https://picsum.photos/1200/400",
-    "bannerHeight": 400,
     "nav": [
         {"label": "Home", "icon": "home-alt", "path": "/"},
         {"label": "About", "icon": "info", "path": "/about"}
